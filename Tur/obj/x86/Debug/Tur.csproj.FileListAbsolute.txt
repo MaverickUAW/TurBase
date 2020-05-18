@@ -1,0 +1,69 @@
+c:\users\1с предприятие\documents\visual studio 2010\Projects\Tur\Tur\bin\Debug\Tur.exe
+c:\users\1с предприятие\documents\visual studio 2010\Projects\Tur\Tur\bin\Debug\Tur.pdb
+c:\users\1с предприятие\documents\visual studio 2010\Projects\Tur\Tur\obj\x86\Debug\Tur.Form1.resources
+c:\users\1с предприятие\documents\visual studio 2010\Projects\Tur\Tur\obj\x86\Debug\Tur.Properties.Resources.resources
+c:\users\1с предприятие\documents\visual studio 2010\Projects\Tur\Tur\obj\x86\Debug\Tur.csproj.GenerateResource.Cache
+c:\users\1с предприятие\documents\visual studio 2010\Projects\Tur\Tur\obj\x86\Debug\Tur.exe
+c:\users\1с предприятие\documents\visual studio 2010\Projects\Tur\Tur\obj\x86\Debug\Tur.pdb
+c:\users\1с предприятие\documents\visual studio 2010\Projects\Tur\Tur\obj\x86\Debug\Tur.DateOfTrip.resources
+c:\users\1с предприятие\documents\visual studio 2010\Projects\Tur\Tur\obj\x86\Debug\Tur.Tickets.resources
+c:\users\1с предприятие\documents\visual studio 2010\Projects\Tur\Tur\obj\x86\Debug\Tur.Discont.resources
+c:\users\1с предприятие\documents\visual studio 2010\Projects\Tur\Tur\obj\x86\Debug\Tur.Finish.resources
+C:\Users\Программирование\Documents\Visual Studio 2017\Projects\Tur\Tur\bin\Debug\Tur.exe
+C:\Users\Программирование\Documents\Visual Studio 2017\Projects\Tur\Tur\bin\Debug\Tur.pdb
+C:\Users\Программирование\Documents\Visual Studio 2017\Projects\Tur\Tur\obj\x86\Debug\Tur.csprojResolveAssemblyReference.cache
+C:\Users\Программирование\Documents\Visual Studio 2017\Projects\Tur\Tur\obj\x86\Debug\Tur.DateOfTrip.resources
+C:\Users\Программирование\Documents\Visual Studio 2017\Projects\Tur\Tur\obj\x86\Debug\Tur.Discont.resources
+C:\Users\Программирование\Documents\Visual Studio 2017\Projects\Tur\Tur\obj\x86\Debug\Tur.Finish.resources
+C:\Users\Программирование\Documents\Visual Studio 2017\Projects\Tur\Tur\obj\x86\Debug\Tur.Form1.resources
+C:\Users\Программирование\Documents\Visual Studio 2017\Projects\Tur\Tur\obj\x86\Debug\Tur.Properties.Resources.resources
+C:\Users\Программирование\Documents\Visual Studio 2017\Projects\Tur\Tur\obj\x86\Debug\Tur.Tickets.resources
+C:\Users\Программирование\Documents\Visual Studio 2017\Projects\Tur\Tur\obj\x86\Debug\Tur.csproj.GenerateResource.Cache
+C:\Users\Программирование\Documents\Visual Studio 2017\Projects\Tur\Tur\obj\x86\Debug\Tur.exe
+C:\Users\Программирование\Documents\Visual Studio 2017\Projects\Tur\Tur\obj\x86\Debug\Tur.pdb
+D:\СТУДЕНТ\352\Шкуренко\TurRealise\Tur\obj\x86\Debug\Tur.exe
+D:\СТУДЕНТ\352\Шкуренко\TurRealise\Tur\obj\x86\Debug\Tur.pdb
+D:\СТУДЕНТ\352\Шкуренко\TurRealise\Tur\obj\x86\Debug\Tur.csprojResolveAssemblyReference.cache
+D:\СТУДЕНТ\352\Шкуренко\TurRealise\Tur\obj\x86\Debug\Tur.DateOfTrip.resources
+D:\СТУДЕНТ\352\Шкуренко\TurRealise\Tur\obj\x86\Debug\Tur.Discont.resources
+D:\СТУДЕНТ\352\Шкуренко\TurRealise\Tur\obj\x86\Debug\Tur.Finish.resources
+D:\СТУДЕНТ\352\Шкуренко\TurRealise\Tur\obj\x86\Debug\Tur.Form1.resources
+D:\СТУДЕНТ\352\Шкуренко\TurRealise\Tur\obj\x86\Debug\Tur.Properties.Resources.resources
+D:\СТУДЕНТ\352\Шкуренко\TurRealise\Tur\obj\x86\Debug\Tur.Tickets.resources
+D:\СТУДЕНТ\352\Шкуренко\TurRealise\Tur\obj\x86\Debug\Tur.csproj.GenerateResource.Cache
+D:\СТУДЕНТ\352\Шкуренко\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.exe
+D:\СТУДЕНТ\352\Шкуренко\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.pdb
+D:\СТУДЕНТ\352\Шкуренко\TurRealiseV1.1\Tur\bin\Debug\Tur.exe
+D:\СТУДЕНТ\352\Шкуренко\TurRealiseV1.1\Tur\bin\Debug\Tur.pdb
+D:\СТУДЕНТ\352\Шкуренко\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.DateOfTrip.resources
+D:\СТУДЕНТ\352\Шкуренко\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.Discont.resources
+D:\СТУДЕНТ\352\Шкуренко\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.Finish.resources
+D:\СТУДЕНТ\352\Шкуренко\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.Form1.resources
+D:\СТУДЕНТ\352\Шкуренко\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.Properties.Resources.resources
+D:\СТУДЕНТ\352\Шкуренко\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.Tickets.resources
+D:\СТУДЕНТ\352\Шкуренко\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.csproj.GenerateResource.Cache
+D:\ooop\TurRealiseV1.1\Tur\bin\Debug\Tur.exe
+D:\ooop\TurRealiseV1.1\Tur\bin\Debug\Tur.pdb
+D:\ooop\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.csprojAssemblyReference.cache
+D:\ooop\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.Discont.resources
+D:\ooop\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.Finish.resources
+D:\ooop\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.Form1.resources
+D:\ooop\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.Properties.Resources.resources
+D:\ooop\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.Tickets.resources
+D:\ooop\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.csproj.GenerateResource.cache
+D:\ooop\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.exe
+D:\ooop\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.pdb
+D:\ooop\TurRealiseV1.1\Tur\obj\x86\Debug\Tur.DateTrip.resources
+D:\ooop\Tur\Tur\bin\Debug\Tur.exe
+D:\ooop\Tur\Tur\bin\Debug\Tur.pdb
+D:\ooop\Tur\Tur\obj\x86\Debug\Tur.csprojAssemblyReference.cache
+D:\ooop\Tur\Tur\obj\x86\Debug\Tur.DateTrip.resources
+D:\ooop\Tur\Tur\obj\x86\Debug\Tur.Discont.resources
+D:\ooop\Tur\Tur\obj\x86\Debug\Tur.Finish.resources
+D:\ooop\Tur\Tur\obj\x86\Debug\Tur.Properties.Resources.resources
+D:\ooop\Tur\Tur\obj\x86\Debug\Tur.Tickets.resources
+D:\ooop\Tur\Tur\obj\x86\Debug\Tur.csproj.GenerateResource.cache
+D:\ooop\Tur\Tur\obj\x86\Debug\Tur.exe
+D:\ooop\Tur\Tur\obj\x86\Debug\Tur.pdb
+D:\ooop\Tur\Tur\obj\x86\Debug\Tur.Country.resources
+D:\ooop\Tur\Tur\obj\x86\Debug\Tur.Hotel.resources
